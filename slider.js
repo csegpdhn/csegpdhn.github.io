@@ -1,7 +1,7 @@
  $(document).ready(function(){
   $('.image').slick({
      infinite: false,
-  slidesToShow: 3,
+  slidesToShow: 2,
   speed : 200,
   slidesToScroll: 2,
   mobileFirst : true,
