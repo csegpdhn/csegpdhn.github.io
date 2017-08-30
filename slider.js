@@ -33,13 +33,6 @@
         slidesToScroll: 2
       }
     }
-    {
-      breakpoint: 360,
-      settings: {
-        slidesToShow: 1,
-        slidesToScroll: 1
-      }
-    }
     ]
    
   });
